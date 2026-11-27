@@ -91,8 +91,6 @@ java ParkingGaragePrototype
 
 ## Next
 
-Week 2: The Observer Pattern.
 
-## License
 
-Released under the MIT License (see [LICENSE](LICENSE)).
+
