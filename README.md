@@ -89,7 +89,8 @@ java ParkingGaragePrototype
 3. Only update Swing components from the EDT (`SwingUtilities.invokeLater`).
 4. Remove references to components you no longer need to avoid memory leaks.
 
-## Next
+
+
 
 
 
